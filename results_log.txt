@@ -1,0 +1,9 @@
+Trial 1: Learning Rate: 0.01, Iterations: 1000, MSE: 12.174004892080694, R-squared: 0.7614838209260087
+Trial 2: Learning Rate: 0.01, Iterations: 5000, MSE: 10.284404085852554, R-squared: 0.7985053572463904
+Trial 3: Learning Rate: 0.01, Iterations: 10000, MSE: 9.902657409066995, R-squared: 0.8059846345695263
+Trial 4: Learning Rate: 0.001, Iterations: 1000, MSE: 11.15594006708611, R-squared: 0.7814300041467251
+Trial 5: Learning Rate: 0.001, Iterations: 5000, MSE: 11.036746786807187, R-squared: 0.7837652690029039
+Trial 6: Learning Rate: 0.001, Iterations: 10000, MSE: 10.979406986142877, R-squared: 0.7848886848619046
+Trial 7: Learning Rate: 0.0001, Iterations: 1000, MSE: 11.57498344151813, R-squared: 0.7732200005019251
+Trial 8: Learning Rate: 0.0001, Iterations: 5000, MSE: 11.580004048545486, R-squared: 0.7731216355008089
+Trial 9: Learning Rate: 0.0001, Iterations: 10000, MSE: 11.568919905357266, R-squared: 0.7733387988340752
