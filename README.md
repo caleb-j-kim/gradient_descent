@@ -1,8 +1,11 @@
 Linear Regression using Gradient Descent
+
 Overview
+
 This project implements linear regression using gradient descent on the Auto MPG dataset.
 
 Setup
+
 Ensure Python 3.x is installed.
 
 Install the required libraries in the terminal in the working directory:
